@@ -1,0 +1,42 @@
+body{
+    background-color:grey;
+}
+.heading{
+    text-align: center;
+    color: greenyellow;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subheading{
+    color: greenyellow;
+    font-size: 1.5rem ;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 35%;
+}
+
+.subheading h2{
+    display: inline-block;
+    margin:0 80px;
+}
+
+.photos{
+    position: relative;
+    left: 31%;
+    margin-top: 3%;
+}
+
+.photos .first_dice{
+    display: inline-block;
+    margin:0 78px ;
+}
+
+.bottom{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 4%;
+    word-spacing: 10px;
+    font-size: 1.3rem;
+}
