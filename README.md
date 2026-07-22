@@ -33,3 +33,12 @@ Perfect for learning and demonstrating basic **JavaScript**, **DOM manipulation*
    ```bash
    git clone https://github.com/your-username/dice-duel.git
 
+---
+
+# ⭐ Support
+
+If you found this project interesting, please consider giving it a ⭐ on GitHub.
+
+It helps support the project and motivates future improvements.
+   
+
