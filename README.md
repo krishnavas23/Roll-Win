@@ -1,6 +1,6 @@
 # 🎲 Dice Duel
 
-A simple and fun web-based dice game!  
+A Simple and Fun Web-based Dice game!  
 Every time you load or refresh the page, two dice are rolled, and the one with the higher number wins.  
 
 Perfect for learning and demonstrating basic **JavaScript**, **DOM manipulation**, and **random number generation**.
